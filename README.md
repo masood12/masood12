@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**masood12/masood12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter developer with background in Java/Kotlin for Android and Swift for iOS.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+- 🔭 I’m currently working on Factoring app
+- 🌱 I’m currently learning swift UI and Blockchain
+- 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Flutter
+- 📫 How to reach me: check my social links below
+- 😄 Pronouns: He/His
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masood12&show_icons=true&theme=radical)
+
+
